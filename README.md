@@ -1,7 +1,5 @@
 # Flipkart-Analysis-using-Python-and-Tableau
 
-# 📦 Flipkart E-commerce Return Analysis
-
 ## 🎯 Objective
 
 To analyze Flipkart e-commerce data using **Tableau** and **Python** to uncover key trends in **sales**, **customer behavior**, **product performance**, and **return patterns**.  
